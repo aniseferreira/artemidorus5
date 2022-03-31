@@ -1,0 +1,58 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="POR"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>Αρτεμίδωρος</text>
+				<refs nrefs='2-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>Ἀρτεμιδώρῳ</text>
+				<refs nrefs='2-5'></refs>
+			</w>
+			<w n='1-3'>
+				<text>τῷ</text>
+				<refs nrefs='2-3'></refs>
+			</w>
+			<w n='1-4'>
+				<text>υἱῷ</text>
+				<refs nrefs='2-4'></refs>
+			</w>
+			<w n='1-5'>
+				<text>χαίρειν</text>
+				<refs nrefs='2-2'></refs>
+			</w>
+			<w n='1-6'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Artemidoro</text>
+				<refs nrefs='1-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>saúda</text>
+				<refs nrefs='1-5'></refs>
+			</w>
+			<w n='2-3'>
+				<text>o</text>
+				<refs nrefs='1-3'></refs>
+			</w>
+			<w n='2-4'>
+				<text>filho</text>
+				<refs nrefs='1-4'></refs>
+			</w>
+			<w n='2-5'>
+				<text>Artemidoro</text>
+				<refs nrefs='1-2'></refs>
+			</w>
+			<w n='2-6'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

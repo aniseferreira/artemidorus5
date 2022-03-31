@@ -1,0 +1,222 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="POR"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>Ἔδοξέ</text>
+				<refs nrefs='2-3'></refs>
+			</w>
+			<w n='1-2'>
+				<text>τις</text>
+				<refs nrefs='2-1 2-2'></refs>
+			</w>
+			<w n='1-3'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-4'>
+				<text>κατ’</text>
+				<refs nrefs='2-6'></refs>
+			</w>
+			<w n='1-5'>
+				<text>ὄναρ</text>
+				<refs nrefs='2-7'></refs>
+			</w>
+			<w n='1-6'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-7'>
+				<text>ἐν</text>
+				<refs nrefs='2-10'></refs>
+			</w>
+			<w n='1-8'>
+				<text>Ἰσθμῷ</text>
+				<refs nrefs='2-11'></refs>
+			</w>
+			<w n='1-9'>
+				<text>γινόμενος</text>
+				<refs nrefs='2-9'></refs>
+			</w>
+			<w n='1-10'>
+				<text>τὸν</text>
+				<refs nrefs='2-14'></refs>
+			</w>
+			<w n='1-11'>
+				<text>ἴδιον</text>
+				<refs nrefs='2-15 2-16'></refs>
+			</w>
+			<w n='1-12'>
+				<text>υἱὸν</text>
+				<refs nrefs='2-17'></refs>
+			</w>
+			<w n='1-13'>
+				<text>ζητεῖν</text>
+				<refs nrefs='2-13 2-4'></refs>
+			</w>
+			<w n='1-14'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-15'>
+				<text>ἀπώλετο</text>
+				<refs nrefs='2-22'></refs>
+			</w>
+			<w n='1-16'>
+				<text>ὁ</text>
+				<refs nrefs='2-19'></refs>
+			</w>
+			<w n='1-17'>
+				<text>υἱὸς</text>
+				<refs nrefs='2-21'></refs>
+			</w>
+			<w n='1-18'>
+				<text>αὐτοῦ</text>
+				<refs nrefs='2-20'></refs>
+			</w>
+			<w n='1-19'>
+				<text>διὰ</text>
+				<refs nrefs='2-23 2-24 2-25'></refs>
+			</w>
+			<w n='1-20'>
+				<text>τὸν</text>
+				<refs nrefs='2-23 2-24 2-25'></refs>
+			</w>
+			<w n='1-21'>
+				<text>μῦθον</text>
+				<refs nrefs='2-26'></refs>
+			</w>
+			<w n='1-22'>
+				<text>τὸν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-23'>
+				<text>Μελικέρτειον</text>
+				<refs nrefs='2-27 2-28'></refs>
+			</w>
+			<w n='1-24'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Um</text>
+				<refs nrefs='1-2'></refs>
+			</w>
+			<w n='2-2'>
+				<text>sujeito</text>
+				<refs nrefs='1-2'></refs>
+			</w>
+			<w n='2-3'>
+				<text>sonhou</text>
+				<refs nrefs='1-1'></refs>
+			</w>
+			<w n='2-4'>
+				<text>que</text>
+				<refs nrefs='1-13'></refs>
+			</w>
+			<w n='2-5'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-6'>
+				<text>no</text>
+				<refs nrefs='1-4'></refs>
+			</w>
+			<w n='2-7'>
+				<text>sonho</text>
+				<refs nrefs='1-5'></refs>
+			</w>
+			<w n='2-8'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-9'>
+				<text>estando</text>
+				<refs nrefs='1-9'></refs>
+			</w>
+			<w n='2-10'>
+				<text>no</text>
+				<refs nrefs='1-7'></refs>
+			</w>
+			<w n='2-11'>
+				<text>Istmo</text>
+				<refs nrefs='1-8'></refs>
+			</w>
+			<w n='2-12'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-13'>
+				<text>procurava</text>
+				<refs nrefs='1-13'></refs>
+			</w>
+			<w n='2-14'>
+				<text>o</text>
+				<refs nrefs='1-10'></refs>
+			</w>
+			<w n='2-15'>
+				<text>seu</text>
+				<refs nrefs='1-11'></refs>
+			</w>
+			<w n='2-16'>
+				<text>próprio</text>
+				<refs nrefs='1-11'></refs>
+			</w>
+			<w n='2-17'>
+				<text>filho</text>
+				<refs nrefs='1-12'></refs>
+			</w>
+			<w n='2-18'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-19'>
+				<text>O</text>
+				<refs nrefs='1-16'></refs>
+			</w>
+			<w n='2-20'>
+				<text>seu</text>
+				<refs nrefs='1-18'></refs>
+			</w>
+			<w n='2-21'>
+				<text>filho</text>
+				<refs nrefs='1-17'></refs>
+			</w>
+			<w n='2-22'>
+				<text>morreu</text>
+				<refs nrefs='1-15'></refs>
+			</w>
+			<w n='2-23'>
+				<text>por</text>
+				<refs nrefs='1-19 1-20'></refs>
+			</w>
+			<w n='2-24'>
+				<text>causa</text>
+				<refs nrefs='1-19 1-20'></refs>
+			</w>
+			<w n='2-25'>
+				<text>do</text>
+				<refs nrefs='1-19 1-20'></refs>
+			</w>
+			<w n='2-26'>
+				<text>mito</text>
+				<refs nrefs='1-21'></refs>
+			</w>
+			<w n='2-27'>
+				<text>de</text>
+				<refs nrefs='1-23'></refs>
+			</w>
+			<w n='2-28'>
+				<text>Melicertes</text>
+				<refs nrefs='1-23'></refs>
+			</w>
+			<w n='2-29'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

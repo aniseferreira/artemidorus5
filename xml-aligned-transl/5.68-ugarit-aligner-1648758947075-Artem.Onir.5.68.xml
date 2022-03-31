@@ -1,0 +1,542 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="POR"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>Ἔδοξέ</text>
+				<refs nrefs='2-3'></refs>
+			</w>
+			<w n='1-2'>
+				<text>τις</text>
+				<refs nrefs='2-1 2-2'></refs>
+			</w>
+			<w n='1-3'>
+				<text>ἐν</text>
+				<refs nrefs='2-7'></refs>
+			</w>
+			<w n='1-4'>
+				<text>τῷ</text>
+				<refs nrefs='2-7'></refs>
+			</w>
+			<w n='1-5'>
+				<text>πρωκτῷ</text>
+				<refs nrefs='2-8'></refs>
+			</w>
+			<w n='1-6'>
+				<text>στόμα</text>
+				<refs nrefs='2-10 2-11'></refs>
+			</w>
+			<w n='1-7'>
+				<text>ἔχειν</text>
+				<refs nrefs='2-4 2-5'></refs>
+			</w>
+			<w n='1-8'>
+				<text>καὶ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-9'>
+				<text>ὀδόντας</text>
+				<refs nrefs='2-16'></refs>
+			</w>
+			<w n='1-10'>
+				<text>μεγάλους</text>
+				<refs nrefs='2-13'></refs>
+			</w>
+			<w n='1-11'>
+				<text>καὶ</text>
+				<refs nrefs='2-14'></refs>
+			</w>
+			<w n='1-12'>
+				<text>καλοὺς</text>
+				<refs nrefs='2-15'></refs>
+			</w>
+			<w n='1-13'>
+				<text>καὶ</text>
+				<refs nrefs='2-18'></refs>
+			</w>
+			<w n='1-14'>
+				<text>φωνὴν</text>
+				<refs nrefs='2-20 2-21'></refs>
+			</w>
+			<w n='1-15'>
+				<text>ῥήσσειν</text>
+				<refs nrefs='2-19 2-22'></refs>
+			</w>
+			<w n='1-16'>
+				<text>δι’</text>
+				<refs nrefs='2-23 2-24'></refs>
+			</w>
+			<w n='1-17'>
+				<text>αὐτοῦ</text>
+				<refs nrefs='2-23 2-24'></refs>
+			</w>
+			<w n='1-18'>
+				<text>καὶ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-19'>
+				<text>ἐσθίειν</text>
+				<refs nrefs='2-26 2-27'></refs>
+			</w>
+			<w n='1-20'>
+				<text>δι’</text>
+				<refs nrefs='2-28 2-29'></refs>
+			</w>
+			<w n='1-21'>
+				<text>αὐτοῦ</text>
+				<refs nrefs='2-28 2-29'></refs>
+			</w>
+			<w n='1-22'>
+				<text>καὶ</text>
+				<refs nrefs='2-31'></refs>
+			</w>
+			<w n='1-23'>
+				<text>ὅσα</text>
+				<refs nrefs='2-33 2-34 2-35'></refs>
+			</w>
+			<w n='1-24'>
+				<text>τῷ</text>
+				<refs nrefs='2-38 2-39'></refs>
+			</w>
+			<w n='1-25'>
+				<text>στόματι</text>
+				<refs nrefs='2-40'></refs>
+			</w>
+			<w n='1-26'>
+				<text>πράσσεται</text>
+				<refs nrefs='2-36 2-37'></refs>
+			</w>
+			<w n='1-27'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-28'>
+				<text>πάντα</text>
+				<refs nrefs='2-42'></refs>
+			</w>
+			<w n='1-29'>
+				<text>ὅμοια</text>
+				<refs nrefs='2-43'></refs>
+			</w>
+			<w n='1-30'>
+				<text>ἔχειν</text>
+				<refs nrefs='2-32 2-47'></refs>
+			</w>
+			<w n='1-31'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-32'>
+				<text>ὑπὸ</text>
+				<refs nrefs='2-49'></refs>
+			</w>
+			<w n='1-33'>
+				<text>προπετείας</text>
+				<refs nrefs='2-50 2-51'></refs>
+			</w>
+			<w n='1-34'>
+				<text>λόγων</text>
+				<refs nrefs='2-52 2-54'></refs>
+			</w>
+			<w n='1-35'>
+				<text>ἔφυγε</text>
+				<refs nrefs='2-65'></refs>
+			</w>
+			<w n='1-36'>
+				<text>τὴν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-37'>
+				<text>ἑαυτοῦ</text>
+				<refs nrefs='2-60 2-61 2-62'></refs>
+			</w>
+			<w n='1-38'>
+				<text>πατρίδα</text>
+				<refs nrefs='2-63'></refs>
+			</w>
+			<w n='1-39'>
+				<text>ἀπελασθείς</text>
+				<refs nrefs='2-56 2-57 2-58 2-59'></refs>
+			</w>
+			<w n='1-40'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-41'>
+				<text>ἐῶ</text>
+				<refs nrefs='2-67 2-68'></refs>
+			</w>
+			<w n='1-42'>
+				<text>λέγειν</text>
+				<refs nrefs='2-69'></refs>
+			</w>
+			<w n='1-43'>
+				<text>τὰς</text>
+				<refs nrefs='2-70'></refs>
+			</w>
+			<w n='1-44'>
+				<text>αἰτίας</text>
+				<refs nrefs='2-71'></refs>
+			</w>
+			<w n='1-45'>
+				<text>·</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-46'>
+				<text>εἰκότα</text>
+				<refs nrefs='2-77'></refs>
+			</w>
+			<w n='1-47'>
+				<text>γὰρ</text>
+				<refs nrefs='2-73'></refs>
+			</w>
+			<w n='1-48'>
+				<text>καὶ</text>
+				<refs nrefs='2-78'></refs>
+			</w>
+			<w n='1-49'>
+				<text>εὔλογα</text>
+				<refs nrefs='2-79'></refs>
+			</w>
+			<w n='1-50'>
+				<text>ἦν</text>
+				<refs nrefs='2-76'></refs>
+			</w>
+			<w n='1-51'>
+				<text>τὰ</text>
+				<refs nrefs='2-74'></refs>
+			</w>
+			<w n='1-52'>
+				<text>συμβάντα</text>
+				<refs nrefs='2-75'></refs>
+			</w>
+			<w n='1-53'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Um</text>
+				<refs nrefs='1-2'></refs>
+			</w>
+			<w n='2-2'>
+				<text>sujeito</text>
+				<refs nrefs='1-2'></refs>
+			</w>
+			<w n='2-3'>
+				<text>sonhou</text>
+				<refs nrefs='1-1'></refs>
+			</w>
+			<w n='2-4'>
+				<text>que</text>
+				<refs nrefs='1-7'></refs>
+			</w>
+			<w n='2-5'>
+				<text>tinha</text>
+				<refs nrefs='1-7'></refs>
+			</w>
+			<w n='2-6'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-7'>
+				<text>no</text>
+				<refs nrefs='1-3 1-4'></refs>
+			</w>
+			<w n='2-8'>
+				<text>ânus</text>
+				<refs nrefs='1-5'></refs>
+			</w>
+			<w n='2-9'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-10'>
+				<text>uma</text>
+				<refs nrefs='1-6'></refs>
+			</w>
+			<w n='2-11'>
+				<text>boca</text>
+				<refs nrefs='1-6'></refs>
+			</w>
+			<w n='2-12'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-13'>
+				<text>grandes</text>
+				<refs nrefs='1-10'></refs>
+			</w>
+			<w n='2-14'>
+				<text>e</text>
+				<refs nrefs='1-11'></refs>
+			</w>
+			<w n='2-15'>
+				<text>belos</text>
+				<refs nrefs='1-12'></refs>
+			</w>
+			<w n='2-16'>
+				<text>dentes</text>
+				<refs nrefs='1-9'></refs>
+			</w>
+			<w n='2-17'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-18'>
+				<text>e</text>
+				<refs nrefs='1-13'></refs>
+			</w>
+			<w n='2-19'>
+				<text>que</text>
+				<refs nrefs='1-15'></refs>
+			</w>
+			<w n='2-20'>
+				<text>uma</text>
+				<refs nrefs='1-14'></refs>
+			</w>
+			<w n='2-21'>
+				<text>voz</text>
+				<refs nrefs='1-14'></refs>
+			</w>
+			<w n='2-22'>
+				<text>falava</text>
+				<refs nrefs='1-15'></refs>
+			</w>
+			<w n='2-23'>
+				<text>através</text>
+				<refs nrefs='1-16 1-17'></refs>
+			</w>
+			<w n='2-24'>
+				<text>dele</text>
+				<refs nrefs='1-16 1-17'></refs>
+			</w>
+			<w n='2-25'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-26'>
+				<text>que</text>
+				<refs nrefs='1-19'></refs>
+			</w>
+			<w n='2-27'>
+				<text>comia</text>
+				<refs nrefs='1-19'></refs>
+			</w>
+			<w n='2-28'>
+				<text>através</text>
+				<refs nrefs='1-20 1-21'></refs>
+			</w>
+			<w n='2-29'>
+				<text>dele</text>
+				<refs nrefs='1-20 1-21'></refs>
+			</w>
+			<w n='2-30'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-31'>
+				<text>e</text>
+				<refs nrefs='1-22'></refs>
+			</w>
+			<w n='2-32'>
+				<text>que</text>
+				<refs nrefs='1-30'></refs>
+			</w>
+			<w n='2-33'>
+				<text>tantas</text>
+				<refs nrefs='1-23'></refs>
+			</w>
+			<w n='2-34'>
+				<text>coisas</text>
+				<refs nrefs='1-23'></refs>
+			</w>
+			<w n='2-35'>
+				<text>que</text>
+				<refs nrefs='1-23'></refs>
+			</w>
+			<w n='2-36'>
+				<text>se</text>
+				<refs nrefs='1-26'></refs>
+			</w>
+			<w n='2-37'>
+				<text>fazem</text>
+				<refs nrefs='1-26'></refs>
+			</w>
+			<w n='2-38'>
+				<text>com</text>
+				<refs nrefs='1-24'></refs>
+			</w>
+			<w n='2-39'>
+				<text>a</text>
+				<refs nrefs='1-24'></refs>
+			</w>
+			<w n='2-40'>
+				<text>boca</text>
+				<refs nrefs='1-25'></refs>
+			</w>
+			<w n='2-41'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-42'>
+				<text>todas</text>
+				<refs nrefs='1-28'></refs>
+			</w>
+			<w n='2-43'>
+				<text>semelhantes</text>
+				<refs nrefs='1-29'></refs>
+			</w>
+			<w n='2-44'>
+				<text>a</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-45'>
+				<text>essas</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-46'>
+				<text>ele</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-47'>
+				<text>fazia</text>
+				<refs nrefs='1-30'></refs>
+			</w>
+			<w n='2-48'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-49'>
+				<text>Por</text>
+				<refs nrefs='1-32'></refs>
+			</w>
+			<w n='2-50'>
+				<text>uma</text>
+				<refs nrefs='1-33'></refs>
+			</w>
+			<w n='2-51'>
+				<text>precipitação</text>
+				<refs nrefs='1-33'></refs>
+			</w>
+			<w n='2-52'>
+				<text>de</text>
+				<refs nrefs='1-34'></refs>
+			</w>
+			<w n='2-53'>
+				<text>suas</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-54'>
+				<text>palavras</text>
+				<refs nrefs='1-34'></refs>
+			</w>
+			<w n='2-55'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-56'>
+				<text>após</text>
+				<refs nrefs='1-39'></refs>
+			</w>
+			<w n='2-57'>
+				<text>ter</text>
+				<refs nrefs='1-39'></refs>
+			</w>
+			<w n='2-58'>
+				<text>sido</text>
+				<refs nrefs='1-39'></refs>
+			</w>
+			<w n='2-59'>
+				<text>expulso</text>
+				<refs nrefs='1-39'></refs>
+			</w>
+			<w n='2-60'>
+				<text>do</text>
+				<refs nrefs='1-37'></refs>
+			</w>
+			<w n='2-61'>
+				<text>seu</text>
+				<refs nrefs='1-37'></refs>
+			</w>
+			<w n='2-62'>
+				<text>próprio</text>
+				<refs nrefs='1-37'></refs>
+			</w>
+			<w n='2-63'>
+				<text>país</text>
+				<refs nrefs='1-38'></refs>
+			</w>
+			<w n='2-64'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-65'>
+				<text>fugiu</text>
+				<refs nrefs='1-35'></refs>
+			</w>
+			<w n='2-66'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-67'>
+				<text>Deixo</text>
+				<refs nrefs='1-41'></refs>
+			</w>
+			<w n='2-68'>
+				<text>de</text>
+				<refs nrefs='1-41'></refs>
+			</w>
+			<w n='2-69'>
+				<text>dizer</text>
+				<refs nrefs='1-42'></refs>
+			</w>
+			<w n='2-70'>
+				<text>as</text>
+				<refs nrefs='1-43'></refs>
+			</w>
+			<w n='2-71'>
+				<text>causas</text>
+				<refs nrefs='1-44'></refs>
+			</w>
+			<w n='2-72'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-73'>
+				<text>pois</text>
+				<refs nrefs='1-47'></refs>
+			</w>
+			<w n='2-74'>
+				<text>o</text>
+				<refs nrefs='1-51'></refs>
+			</w>
+			<w n='2-75'>
+				<text>ocorrido</text>
+				<refs nrefs='1-52'></refs>
+			</w>
+			<w n='2-76'>
+				<text>era</text>
+				<refs nrefs='1-50'></refs>
+			</w>
+			<w n='2-77'>
+				<text>apropriado</text>
+				<refs nrefs='1-46'></refs>
+			</w>
+			<w n='2-78'>
+				<text>e</text>
+				<refs nrefs='1-48'></refs>
+			</w>
+			<w n='2-79'>
+				<text>lógico</text>
+				<refs nrefs='1-49'></refs>
+			</w>
+			<w n='2-80'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>
