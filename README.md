@@ -1,2 +1,8 @@
-# artemidorus5
-Collection of treebank annotations and aligned translations of Artemidorus' Oneirocritica  Book 5 
+# Artemidorus' Book 5
+## Collection of Ancient Greek annotated trees and aligned translations of Artemidorus' Oneirocritica Book 5
+- The trees were annotated manually on Perseids Platform using Arethusa tool. The treebank tagset and guidelines used were those from [The Ancient Greek Dependency Treebank ](https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md) with the morphological and syntactic layer, which was based on Bamman's and Crane's 2008 *Guidelines for the Syntactic Annotation of the
+Ancient Greek Dependency Treebank (1.1)*, and its translationi nto Portuguese with a few addition of some specifications provided by a forum maintained during a Tufts'project. The Artemidorus' book 5 trees can be visualized at Perseids collection at https://perseids-publications.github.io/unesp-trees
+- The translations were aligned on Ugarit platform, and can be visualized at http://ugarit.ialigner.com/userProfile.php?userid=15&tgid=9056  The Greek text source was the digitized Pack's 1963 edition from CTS Perseids:  urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1:5 And the Portuguese source is the reviewed translation by me of a previous one published by Cultura Acadêmica as an ebook (https://www.culturaacademica.com.br/catalogo/oneirokritika-de-artemidoro-de-daldis-seculo-ii-d-c/).
+- The alignment guidelines for Portuguese achieved 88% according to Tariq Yousef's agreement analysis of the dataset (see LREC22 paper)
+- Examples ambiguous cases of annotation have been added at https://github.com/aniseferreira/LetrasClassicasDigitais/blob/master/exemplos-anotacao-arvores.md
+ 
